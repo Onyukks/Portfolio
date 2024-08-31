@@ -401,6 +401,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
   text-align: center;
   width: 56%;
 }
+@media (max-width: 760px) {
+   .project-desc{
+    width: 100% !important;
+    text-align: left !important;
+   }
+}
 .project .nav.nav-pills {
   width: 72%;
   margin: 0 auto;
