@@ -40,7 +40,7 @@ const Skills = () => {
                             <div className="item">
                                 <img src={meter1} alt="Image" />
                                 <h5>FrontEnd Development</h5>
-                                <span className="skills-p">HTML,CSS,JavaScript,React.js</span>
+                                <span className="skills-p">HTML,CSS,JavaScript,TypeScript,React.js</span>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
@@ -60,7 +60,7 @@ const Skills = () => {
                             <div className="item">
                                 <img src={meter1} alt="Image" />
                                 <h5>BackEnd Development</h5>
-                                <span className="skills-p">Node.js,Express</span>
+                                <span className="skills-p">Node.js,Express,TypeScript</span>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
