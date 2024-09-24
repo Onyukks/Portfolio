@@ -17,7 +17,7 @@ const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2 className="project-header">Projects</h2>
-                <p className="project-desc">Explore some of the key projects I've built during my journey as a full-stack developer. From dynamic web applications to modern user interfaces, each project reflects my passion for solving real-world problems with code. Click on the tabs below to view detailed previews and access the code on GitHub.
+                <p className="project-desc">Explore some of the key projects I've built during my journey as a full-stack developer. From dynamic web applications to modern user interfaces, each project reflects my passion for solving real-world problems with code. Click on the tabs below to view detailed previews and access the code on GitHub. These projects are just a sample of some of my work; for a complete view of all my projects, please visit my GitHub
                 </p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
