@@ -16,7 +16,7 @@ const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h2>Hi! I am Agbafo Onyeukwu. I am a Full Stack Developer</h2>
-                  <p>Welcome to my portfolio! I'm a passionate full-stack developer with hands-on experience in building efficient and scalable web applications using modern technologies. With expertise in the MERN stack, I enjoy crafting both front-end and back-end solutions that solve real-world problems. Explore my projects and see how I bring ideas to life through code</p>
+                  <p>Welcome to my portfolio! I'm a passionate full-stack developer with hands-on experience in building efficient and scalable web applications using modern technologies. With expertise in the MERN stack and TypeScript, I enjoy crafting both front-end and back-end solutions that solve real-world problems. Explore my projects and see how I bring ideas to life through code</p>
                   <a href="/My_CV.pdf" download="My_CV.pdf">
                    <button className="btn btn-primary">Download CV</button>
                 </a>
